@@ -1,7 +1,7 @@
 # Francesco-links
 
-A list of links where Francesco is featured
+A list of links where [Francesco](http://francescociulla.com) is featured
 
 
 
-|14-03-2021|https://www.ecairn.com/blog/top-100-influencers-devrel | Top-100 DevRel|
+|14-04-2021|https://www.ecairn.com/blog/update-top-100-devrel#.YlZqdWQ40QA.twitter= | Top-100 DevRel|
